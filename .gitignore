@@ -1,0 +1,36 @@
+# CanaGuard AI — .gitignore
+
+# Dados gerados pelo sistema (não versionar dados pessoais)
+dados_do_sistema/dados_canaguard.json
+dados_do_sistema/*.sql
+
+# Relatórios gerados
+relatorios_gerados/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini

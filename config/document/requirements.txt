@@ -1,0 +1,11 @@
+# CanaGuard AI — Dependências para alocar depois no README 
+# Todas as bibliotecas usadas são padrão do Python 3.8 ou superior, portanto, não é necessário instalar nada adicional para rodar o sistema.
+# Não é necessário instalar nada adicional, pois todas as bibliotecas utilizadas são parte da biblioteca padrão do Python. Basta ter o Python 3.8 ou superior instalado para executar o sistema sem problemas.
+
+# Bibliotecas utilizadas (todas built-in):
+# - os       : manipulação de caminhos e diretórios 
+# - sys      : configuração do caminho de importação
+# - json     : leitura e escrita de arquivos JSON
+# - uuid     : geração de códigos únicos para áreas
+# - datetime : registro de datas nos dados
+
